@@ -6,9 +6,10 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logoColor=white)](https://www.instagram.com/cloudcephyrus) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logoColor=white)](https://www.linkedin.com/in/merlitojrsalas/) 
-[![X](https://img.shields.io/badge/X-black.svg?logoColor=white)](https://x.com/cloudmilori)
+[![Instagram](https://img.shields.io/badge/Instagram-teal.svg)](https://www.instagram.com/cloudcephyrus) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-teal.svg)](https://www.linkedin.com/in/merlitojrsalas/) 
+[![X](https://img.shields.io/badge/X-gray.svg)](https://x.com/cloudmilori)
+
 
 
 # 💻 Tech Stack:
