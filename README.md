@@ -6,9 +6,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-teal.svg)](https://www.instagram.com/cloudcephyrus) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-teal.svg)](https://www.linkedin.com/in/merlitojrsalas/) 
-[![X](https://img.shields.io/badge/X-gray.svg)](https://x.com/cloudmilori)
+[![Instagram](https://img.shields.io/badge/Instagram-%2300CED1.svg)](https://www.instagram.com/cloudcephyrus) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232F4F4F.svg)](https://www.linkedin.com/in/merlitojrsalas/) 
+[![X](https://img.shields.io/badge/X-%23FFFFFF.svg)](https://x.com/cloudmilori)
 
 
 
