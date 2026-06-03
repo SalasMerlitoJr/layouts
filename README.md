@@ -25,13 +25,13 @@
 ## 🌐 Socials
 <div>
 <p align="center">
-  <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
+  <a href="https://www.instagram.com/cloudcephyrus" target="blank">
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095130.png" width="60" height="60" alt="Instagram"/>
   </a>
-  <a href="https://x.com/cloudmilori" target="_blank">
+  <a href="https://x.com/cloudmilori" target="blank">
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095131.png" width="60" height="60" alt="X"/>
   </a>
-  <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
+  <a href="https://www.linkedin.com/in/merlitojrsalas/" target="blank">
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095127.png" width="60" height="60" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@XanthSalas" target="_blank">
