@@ -18,7 +18,7 @@ root @ 127.0.0.1
 
 # 📊 GitHub Stats:
 
-<div style="display:flex; justify-content:center; gap:20px;">
+<div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
   <!-- Stats Card -->
   <div style="border:2px solid #ff0066; border-radius:12px; overflow:hidden; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
     <picture>
