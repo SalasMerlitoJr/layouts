@@ -18,11 +18,14 @@ root @ 127.0.0.1
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400" height="200" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="200" />
+  <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ff0066&text_color=000000&icon_color=ff0066" style="width:450px; height:180px;" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ff0066&text_color=000000&icon_color=ff0066" style="width:450px; height:180px;" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ff66cc&text_color=ffffff&icon_color=ff66cc" style="width:450px; height:180px;" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ff66cc&text_color=ffffff&icon_color=ff66cc" style="width:450px; height:180px;" />
 </p>
 
-</p>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cloudmiloriaoe) 
