@@ -34,7 +34,7 @@
     <img src="https://copilot.microsoft.com/th/id/BCO.twitterx_neon_icon.png" width="60" height="60" alt="Twitter X Neon"/>
   </a>
   <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
-    <img src="https://copilot.microsoft.com/th/id/BCO.linkedin_neon_icon.png" width="60" height="60" alt="LinkedIn Neon"/>
+    <img src="https://copilot.microsoft.com/shares/z82HHjYit18AwvhVSdGxH" width="60" height="60" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@XanthSalas" target="_blank">
     <img src="https://copilot.microsoft.com/th/id/BCO.youtube_neon_icon.png" width="60" height="60" alt="YouTube Neon"/>
