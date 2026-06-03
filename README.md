@@ -4,7 +4,7 @@
 ---
 
 ## 💻 Development Tools:
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
@@ -24,14 +24,14 @@
 
 ## 🌐 Socials
 <div>
-<p align="center">
-  <a href="https://www.instagram.com/cloudcephyrus" target="blank">
+<p align="left">
+  <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095130.png" width="60" height="60" alt="Instagram"/>
   </a>
-  <a href="https://x.com/cloudmilori" target="blank">
+  <a href="https://x.com/cloudmilori" target="_blank">
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095131.png" width="60" height="60" alt="X"/>
   </a>
-  <a href="https://www.linkedin.com/in/merlitojrsalas/" target="blank">
+  <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095127.png" width="60" height="60" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@XanthSalas" target="_blank">
