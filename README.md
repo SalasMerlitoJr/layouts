@@ -22,7 +22,7 @@ root @ 127.0.0.1
 
 ---
 
-## 🌐 Socials :
+## 🌐 Social Media:
 <div>
 <p align="left">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
