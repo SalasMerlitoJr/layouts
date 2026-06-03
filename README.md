@@ -27,19 +27,19 @@
 
 <p align="center">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
-    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095127.png" width="60" height="60" alt="Instagram"/>
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095130.png" width="60" height="60" alt="Instagram"/>
   </a>
   <a href="https://x.com/cloudmilori" target="_blank">
-    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/x-neon.png?raw=true" width="60" height="60" alt="X Neon"/>
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095131.png" width="60" height="60" alt="X"/>
   </a>
   <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
-    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/linkedin-neon.png?raw=true" width="60" height="60" alt="LinkedIn Neon"/>
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095127.png" width="60" height="60" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@XanthSalas" target="_blank">
-    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/youtube-neon.png?raw=true" width="60" height="60" alt="YouTube Neon"/>
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095133.png" width="60" height="60" alt="YouTube"/>
   </a>
   <a href="mailto:xanthsalas@gmail.com">
-    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/gmail-neon.png?raw=true" width="60" height="60" alt="Gmail Neon"/>
+    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/gmail-neon.png?raw=true" width="60" height="60" alt="Gmail"/>
   </a>
 </p>
 </div>
