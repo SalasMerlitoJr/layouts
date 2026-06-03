@@ -18,8 +18,12 @@ root @ 127.0.0.1
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" width="400" height="200" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" width="400" height="200" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&bg_color=000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&bg_color=ffffff&title_color=ff0066&text_color=000000&icon_color=ff0066" />
+  <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true" />
+</picture>
+
 </p>
 
 
