@@ -24,7 +24,6 @@
 
 ## 🌐 Socials
 <div>
-
 <p align="center">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095130.png" width="60" height="60" alt="Instagram"/>
@@ -39,7 +38,7 @@
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095133.png" width="60" height="60" alt="YouTube"/>
   </a>
   <a href="mailto:xanthsalas@gmail.com">
-    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/gmail-neon.png?raw=true" width="60" height="60" alt="Gmail"/>
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095129.png" width="60" height="60" alt="Gmail"/>
   </a>
 </p>
 </div>
