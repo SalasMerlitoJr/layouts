@@ -26,10 +26,27 @@
   ## 🌐 Socials:
  
 <div> 
-  <a href="https://www.instagram.com/cloudcephyrus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/cloudmilori" target="_blank"><img src="https://img.shields.io/twitter/follow/cloudmilori" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/@XanthSalas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href ="mailto:xanthsalas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div> 
+  <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150" height="40">
+  </a>
+  
+  <a href="https://x.com/cloudmilori" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/cloudmilori" width="150" height="40">
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40">
+  </a> 
+  
+  <a href="https://www.youtube.com/@XanthSalas" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="150" height="40">
+  </a>
+  
+  <a href="mailto:xanthsalas@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="40">
+  </a>
+</div>
+
   
 </div>
