@@ -24,25 +24,22 @@
 
 ## 🌐 Socials
 <div>
-## 🌐 Socials (Neon Style)
 
 <p align="center">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
-    <img src="https://copilot.microsoft.com/th/id/BCO.instagram_neon_icon.png" width="60" height="60" alt="Instagram Neon"/>
+    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/instagram-neon.png?raw=true" width="60" height="60" alt="Instagram Neon"/>
   </a>
   <a href="https://x.com/cloudmilori" target="_blank">
-    <img src="https://copilot.microsoft.com/th/id/BCO.twitterx_neon_icon.png" width="60" height="60" alt="Twitter X Neon"/>
+    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/x-neon.png?raw=true" width="60" height="60" alt="X Neon"/>
   </a>
   <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
-    <img src="https://copilot.microsoft.com/shares/z82HHjYit18AwvhVSdGxH" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/linkedin-neon.png?raw=true" width="60" height="60" alt="LinkedIn Neon"/>
   </a>
   <a href="https://www.youtube.com/@XanthSalas" target="_blank">
-    <img src="https://copilot.microsoft.com/th/id/BCO.youtube_neon_icon.png" width="60" height="60" alt="YouTube Neon"/>
+    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/youtube-neon.png?raw=true" width="60" height="60" alt="YouTube Neon"/>
   </a>
   <a href="mailto:xanthsalas@gmail.com">
-    <img src="https://copilot.microsoft.com/th/id/BCO.gmail_neon_icon.png" width="60" height="60" alt="Gmail Neon"/>
+    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/gmail-neon.png?raw=true" width="60" height="60" alt="Gmail Neon"/>
   </a>
-</p>
-
 </p>
 </div>
