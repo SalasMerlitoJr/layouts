@@ -18,7 +18,6 @@ root @ 127.0.0.1
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400" height="200" />
-  <img src="https://streak-stats.demolab.com/?user=salasmerlitojr&theme=radical&hide_border=false" width="400" height="200" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="200" />
 </p>
 
