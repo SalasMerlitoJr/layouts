@@ -1,9 +1,9 @@
 ### 
-root @ 127.0.0.1
+root @ 127.0.0.1 
 
 ---
 
-## 💻 Development Tools:
+## 💻 Development Tools :
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40" />
@@ -22,7 +22,7 @@ root @ 127.0.0.1
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials :
 <div>
 <p align="left">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
