@@ -24,21 +24,25 @@
 
 ## 🌐 Socials
 <div>
+## 🌐 Socials (Neon Style)
+
 <p align="center">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
-    <img src="https://copilot.microsoft.com/th/id/BCO.8abca59f-9f30-4fb9-8d7e-2a4c323f1b0e.png" width="60" height="60" alt="Instagram Neon"/>
+    <img src="https://copilot.microsoft.com/th/id/BCO.instagram_neon_icon.png" width="60" height="60" alt="Instagram Neon"/>
   </a>
   <a href="https://x.com/cloudmilori" target="_blank">
-    <img src="https://copilot.microsoft.com/th/id/BCO.8abca59f-9f30-4fb9-8d7e-2a4c323f1b0e.png" width="60" height="60" alt="Twitter X Neon"/>
+    <img src="https://copilot.microsoft.com/th/id/BCO.twitterx_neon_icon.png" width="60" height="60" alt="Twitter X Neon"/>
   </a>
   <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
-    <img src="https://copilot.microsoft.com/th/id/BCO.8abca59f-9f30-4fb9-8d7e-2a4c323f1b0e.png" width="60" height="60" alt="LinkedIn Neon"/>
+    <img src="https://copilot.microsoft.com/th/id/BCO.linkedin_neon_icon.png" width="60" height="60" alt="LinkedIn Neon"/>
   </a>
   <a href="https://www.youtube.com/@XanthSalas" target="_blank">
-    <img src="https://copilot.microsoft.com/th/id/BCO.8abca59f-9f30-4fb9-8d7e-2a4c323f1b0e.png" width="60" height="60" alt="YouTube Neon"/>
+    <img src="https://copilot.microsoft.com/th/id/BCO.youtube_neon_icon.png" width="60" height="60" alt="YouTube Neon"/>
   </a>
   <a href="mailto:xanthsalas@gmail.com">
-    <img src="https://copilot.microsoft.com/th/id/BCO.8abca59f-9f30-4fb9-8d7e-2a4c323f1b0e.png" width="60" height="60" alt="Gmail Neon"/>
+    <img src="https://copilot.microsoft.com/th/id/BCO.gmail_neon_icon.png" width="60" height="60" alt="Gmail Neon"/>
   </a>
+</p>
+
 </p>
 </div>
