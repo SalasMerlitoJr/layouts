@@ -26,7 +26,6 @@
   ## 🌐 Socials:
  
 <div> 
-  <div> 
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
     <img src="https://images.seeklogo.com/logo-png/28/1/instagram-new-2016-logo-png_seeklogo-282177.png" width="40" height="40">
   </a>
@@ -46,7 +45,4 @@
   <a href="mailto:xanthsalas@gmail.com">
     <img src="https://images.seeklogo.com/logo-png/38/1/gmail-new-2020-logo-png_seeklogo-389043.png" width="40" height="40">
   </a>
-</div>
-
-  
 </div>
