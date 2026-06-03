@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
-    <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/instagram-neon.png?raw=true" width="60" height="60" alt="Instagram Neon"/>
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/Copilot_20260603_095127.png" width="60" height="60" alt="Instagram"/>
   </a>
   <a href="https://x.com/cloudmilori" target="_blank">
     <img src="https://github.com/cloudcephyrus/cloudcephyrus/blob/main/assets/x-neon.png?raw=true" width="60" height="60" alt="X Neon"/>
