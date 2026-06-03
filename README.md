@@ -24,29 +24,29 @@ root @ 127.0.0.1
 
 ## 🌐 Socials
 <div>
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="4" cellspacing="0" style="border-collapse:collapse;">
   <tr>
-    <td>
+    <td border="0">
       <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
         <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095130.png" width="60" height="60" border="0" />
       </a>
     </td>
-    <td>
+    <td border="0">
       <a href="https://x.com/cloudmilori" target="_blank">
         <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095131.png" width="60" height="60" border="0" />
       </a>
     </td>
-    <td>
+    <td border="0">
       <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
         <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095127.png" width="60" height="60" border="0" />
       </a>
     </td>
-    <td>
+    <td border="0">
       <a href="https://www.youtube.com/@XanthSalas" target="_blank">
         <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095133.png" width="60" height="60" border="0" />
       </a>
     </td>
-    <td>
+    <td border="0">
       <a href="mailto:xanthsalas@gmail.com">
         <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095129.png" width="60" height="60" border="0" />
       </a>
