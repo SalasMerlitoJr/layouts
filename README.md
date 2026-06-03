@@ -18,12 +18,16 @@ root @ 127.0.0.1
 
 # 📊 GitHub Stats:
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&bg_color=000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&bg_color=ffffff&title_color=ff0066&text_color=000000&icon_color=ff0066" />
-  <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=ff0066&text_color=000000&icon_color=ff0066" />
+    <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true" width="400" height="200" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&title_color=ff0066&text_color=000000&icon_color=ff0066" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&layout=compact" width="400" height="200" />
+  </picture>
 </p>
 
 
