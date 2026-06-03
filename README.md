@@ -28,7 +28,7 @@
 <div> 
   <div> 
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" height="40">
+    <img src="https://images.seeklogo.com/logo-png/28/1/instagram-new-2016-logo-png_seeklogo-282177.png" width="40" height="40">
   </a>
   
   <a href="https://x.com/cloudmilori" target="_blank">
@@ -36,15 +36,15 @@
   </a> 
   
   <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="40">
+    <img src="https://images.seeklogo.com/logo-png/28/1/linkedin-in-icon-logo-png_seeklogo-286694.png" width="40" height="40">
   </a> 
   
   <a href="https://www.youtube.com/@XanthSalas" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="100" height="40">
+    <img src="https://images.seeklogo.com/logo-png/27/1/youtube-icon-logo-png_seeklogo-270054.png" width="40" height="40">
   </a>
   
   <a href="mailto:xanthsalas@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="40">
+    <img src="https://images.seeklogo.com/logo-png/38/1/gmail-new-2020-logo-png_seeklogo-389043.png" width="40" height="40">
   </a>
 </div>
 
