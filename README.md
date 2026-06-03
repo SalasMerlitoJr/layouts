@@ -1,5 +1,5 @@
-### ᜐ᜔ᜌ᜔ᜐ᜔ᜆᜒᜋ᜔ ᜀᜈ᜔ᜇ᜔ ᜁᜈ᜔ᜉ᜔ᜇᜐ᜔ᜆ᜔ᜇᜓᜃ᜔ᜆᜓᜇᜒ ᜀᜇ᜔ᜋᜒᜈᜒᜐ᜔ᜆ᜔ᜇᜆᜓᜇ᜔  
-"root @ 127.0.0.1"
+### 
+root @ 127.0.0.1
 
 ---
 
@@ -24,22 +24,34 @@
 
 ## 🌐 Socials
 <div>
-<p align="left">
-  <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
-    <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095130.png" width="60" height="60" border="0" />
-  </a>
-  <a href="https://x.com/cloudmilori" target="_blank">
-    <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095131.png" width="60" height="60" border="0" />
-  </a>
-  <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095127.png" width="60" height="60" border="0" />
-  </a>
-  <a href="https://www.youtube.com/@XanthSalas" target="_blank">
-    <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095133.png" width="60" height="60" border="0" />
-  </a>
-  <a href="mailto:xanthsalas@gmail.com">
-    <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095129.png" width="60" height="60" border="0" />
-  </a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
+        <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095130.png" width="60" height="60" border="0" />
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/cloudmilori" target="_blank">
+        <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095131.png" width="60" height="60" border="0" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
+        <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095127.png" width="60" height="60" border="0" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@XanthSalas" target="_blank">
+        <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095133.png" width="60" height="60" border="0" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:xanthsalas@gmail.com">
+        <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/Copilot_20260603_095129.png" width="60" height="60" border="0" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
