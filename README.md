@@ -18,38 +18,23 @@ root @ 127.0.0.1
 
 # 📊 GitHub Stats:
 <p align="center">
-  <!-- GitHub Stats -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ff0066&text_color=000000&icon_color=ff0066" 
-      media="(prefers-color-scheme: light)" />
-    <source 
-      srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ff66cc&text_color=ffffff&icon_color=ff66cc" 
-      media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true" style="width:200px; height:450px;" />
-  </picture>
+  <!-- Stats Card -->
+  <div style="display:inline-block; border:2px solid #ff0066; border-radius:12px; overflow:hidden; margin:5px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=ff0066&text_color=000000&icon_color=ff0066" />
+      <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true" width="400" height="200" />
+    </picture>
+  </div>
 
-  <!-- Streak Stats -->
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com/?user=salasmerlitojr&hide_border=true&background=00000000&ring=ff0066&fire=ff0066&currStreakLabel=000000&sideNums=000000&sideLabels=000000" 
-      media="(prefers-color-scheme: light)" />
-    <source 
-      srcset="https://streak-stats.demolab.com/?user=salasmerlitojr&hide_border=true&background=00000000&ring=ff66cc&fire=ff66cc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" 
-      media="(prefers-color-scheme: dark)" />
-    <img src="https://streak-stats.demolab.com/?user=salasmerlitojr&hide_border=true" style="width:200px; height:450px;" />
-  </picture>
-
-  <!-- Top Languages -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ff0066&text_color=000000&icon_color=ff0066" 
-      media="(prefers-color-scheme: light)" />
-    <source 
-      srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=ff66cc&text_color=ffffff&icon_color=ff66cc" 
-      media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width:200px; height:450px;" />
-  </picture>
+  <!-- Top Languages Card -->
+  <div style="display:inline-block; border:2px solid #ff0066; border-radius:12px; overflow:hidden; margin:5px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&title_color=ff0066&text_color=000000&icon_color=ff0066" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&layout=compact" width="400" height="200" />
+    </picture>
+  </div>
 </p>
 
 
