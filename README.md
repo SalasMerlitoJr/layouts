@@ -26,19 +26,19 @@ root @ 127.0.0.1
 <div>
 <p align="left">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
-    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/transparent_instagram.png" width="60" height="60" border="0" />
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/transparent_instagram.png?raw=true" width="60" height="60" border="0" />
   </a>
   <a href="https://x.com/cloudmilori" target="_blank">
-    <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/flat_x.png" width="60" height="60" border="0" />
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/transparent_x.png?raw=true" width="60" height="60" border="0" />
   </a>
   <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
     <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/transparent_linkedin.png?raw=true" width="60" height="60" border="0" />
   </a>
   <a href="https://www.youtube.com/@XanthSalas" target="_blank">
-    <img src="https://raw.githubusercontent.com/SalasMerlitoJr/SalasMerlitoJr/main/Assets/flat_youtube.png" width="60" height="60" border="0" />
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/transparent_youtube.png?raw=true" width="60" height="60" border="0" />
   </a>
   <a href="mailto:xanthsalas@gmail.com">
-    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/transparent_gmail.png" width="60" height="60" border="0" />
+    <img src="https://github.com/SalasMerlitoJr/SalasMerlitoJr/blob/main/Assets/transparent_gmail.png?raw=true" width="60" height="60" border="0" />
   </a>
 </p>
 </div>
