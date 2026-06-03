@@ -18,25 +18,10 @@ root @ 127.0.0.1
 
 # 📊 GitHub Stats:
 
-<div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
-  <!-- Stats Card -->
-  <div style="border:2px solid #ff0066; border-radius:12px; overflow:hidden; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=ff0066&text_color=000000&icon_color=ff0066" />
-      <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=true" width="400" height="200" />
-    </picture>
-  </div>
-
-  <!-- Top Languages Card -->
-  <div style="border:2px solid #ff0066; border-radius:12px; overflow:hidden; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=ff0066&text_color=ffffff&icon_color=ff0066" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&title_color=ff0066&text_color=000000&icon_color=ff0066" />
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=true&layout=compact" width="400" height="200" />
-    </picture>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="400" height="200" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="200" />
+</p>
 
 
 
