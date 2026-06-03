@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Socials
-
+<div>
 <p align="center">
   <a href="https://www.instagram.com/cloudcephyrus" target="_blank">
     <img src="https://copilot.microsoft.com/th/id/BCO.8abca59f-9f30-4fb9-8d7e-2a4c323f1b0e.png" width="60" height="60" alt="Instagram Neon"/>
@@ -41,4 +41,4 @@
     <img src="https://copilot.microsoft.com/th/id/BCO.8abca59f-9f30-4fb9-8d7e-2a4c323f1b0e.png" width="60" height="60" alt="Gmail Neon"/>
   </a>
 </p>
-
+</div>
