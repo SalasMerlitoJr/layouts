@@ -16,7 +16,12 @@ root @ 127.0.0.1
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://streak-stats.demolab.com/?user=salasmerlitojr&theme=radical&hide_border=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=400" />
+  <img src="https://streak-stats.demolab.com/?user=salasmerlitojr&theme=radical&hide_border=false&card_width=400" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salasmerlitojr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400" />
+</p>
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cloudmiloriaoe) 
