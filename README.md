@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://x.com/cloudmilori" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492396.png" width="150" height="40">
+    <img src="https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492396.png" width="40" height="40">
   </a> 
   
   <a href="https://www.linkedin.com/in/merlitojrsalas/" target="_blank">
